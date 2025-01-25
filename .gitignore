@@ -1,0 +1,5 @@
+*/*.o
+perlin_visualiser
+.vscode
+obj
+debug_obj
